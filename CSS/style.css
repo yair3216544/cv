@@ -6,6 +6,10 @@ h2 {
   color: #66bfbf
 }
 
+h3 {
+  color: #66bfbf;
+}
+
 body {
   background-color: #eaf6f6;
 }
@@ -31,8 +35,13 @@ img:hover {
 
 td:hover{
   color: blue;
+  font-size: 30px;
 }
 
 ul:hover{
   color: blue;
+}
+
+.intro:hover{
+  font-size: 5px;
 }
